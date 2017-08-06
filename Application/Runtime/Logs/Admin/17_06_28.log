@@ -1,0 +1,30 @@
+[ 2017-06-28T16:05:42+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia
+ERR: SQLSTATE[HY000]: General error: 1366 Incorrect decimal value: '' for column 'goods_price' at row 1
+
+[ 2017-06-28T17:00:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia.html
+ERR: 不存在的字体文件：20
+
+[ 2017-06-28T17:00:47+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia.html
+ERR: 不存在的字体文件：
+
+[ 2017-06-28T17:02:49+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia.html
+ERR: 不存在的字体文件：../Verify/zhttfs/simfang.ttf
+
+[ 2017-06-28T17:06:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia.html
+ERR: 不存在的字体文件：/ThinkPHP/Library/Think/Verify/zhttfs/simfang.ttf
+
+[ 2017-06-28T17:06:32+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia.html
+ERR: 不存在的字体文件：/ThinkPHP/Library/Verify/zhttfs/simfang.ttf
+
+[ 2017-06-28T17:06:49+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia.html
+ERR: 不存在的字体文件：./ThinkPHP/Library/Verify/zhttfs/simfang.ttf
+
+[ 2017-06-28T17:06:58+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia.html
+ERR: 不存在的字体文件：ThinkPHP/Library/Verify/zhttfs/simfang.ttf
+
+[ 2017-06-28T17:07:38+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia.html
+ERR: 不存在的字体文件：__THINKPHP__/Verify/zhttfs/simfang.ttf
+
+[ 2017-06-28T17:08:01+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia.html
+ERR: 不存在的字体文件：__VERIFY__/zhttfs/simfang.ttf
+

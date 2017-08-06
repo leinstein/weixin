@@ -1,0 +1,45 @@
+[ 2017-06-30T10:46:42+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+
+[ 2017-06-30T10:51:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+
+[ 2017-06-30T10:51:21+08:00 ] 127.0.0.1 /index.php/Admin/Index/left.html
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+
+[ 2017-06-30T12:19:01+08:00 ] 127.0.0.1 /index.php/Admin/Manager/showlist
+ERR: 非法操作:showlist
+
+[ 2017-06-30T12:19:03+08:00 ] 127.0.0.1 /index.php/Admin/Manager/showlist
+ERR: 非法操作:showlist
+
+[ 2017-06-30T12:19:09+08:00 ] 127.0.0.1 /index.php/Admin/Manager/showlist
+ERR: 非法操作:showlist
+
+[ 2017-06-30T12:20:16+08:00 ] 127.0.0.1 /index.php/Admin/Manager/showlist
+ERR: 非法操作:showlist
+
+[ 2017-06-30T12:23:16+08:00 ] 127.0.0.1 /index.php/Admin/Manager/showlist
+ERR: 非法操作:showlist
+
+[ 2017-06-30T12:23:22+08:00 ] 127.0.0.1 /index.php/Admin/Manager/showlist
+ERR: 非法操作:showlist
+
+[ 2017-06-30T12:38:54+08:00 ] 127.0.0.1 /index.php/Admin/Manager/showlist
+ERR: 非法操作:showlist
+
+[ 2017-06-30T14:15:04+08:00 ] 127.0.0.1 /index.php/Admin/Manager/showlist
+ERR: 非法操作:showlist
+
+[ 2017-06-30T16:23:07+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+ERR: Think\Model:alaias方法不存在！
+
+[ 2017-06-30T18:07:46+08:00 ] 127.0.0.1 /index.php/Admin/Manager/showlist
+ERR: 非法操作:showlist
+
+[ 2017-06-30T18:48:05+08:00 ] 127.0.0.1 /index.php/Admin/Role/distribute/role_id/30.html
+ERR: Think\Model:saveAuth方法不存在！
+
+[ 2017-06-30T19:22:01+08:00 ] 127.0.0.1 /index.php/Admin/Role/distribute/role_id/30.html
+ERR: Think\Model:saveAuth方法不存在！
+

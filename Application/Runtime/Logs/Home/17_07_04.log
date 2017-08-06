@@ -1,0 +1,173 @@
+[ 2017-07-04T01:03:53+08:00 ] 127.0.0.1 /index.php/Home/User/regist
+ERR: SQLSTATE[HY000] [1049] Unknown database 'shopapp'
+
+[ 2017-07-04T01:07:13+08:00 ] 127.0.0.1 /index.php/Home/User/checkName?mingzi=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001212s ]
+SQL: SHOW COLUMNS FROM `sw_user` [ RunTime:0.0808s ]
+SQL: SELECT * FROM `sw_user` WHERE `username` = '' LIMIT 1   [ RunTime:0.0164s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001415s ]
+
+[ 2017-07-04T01:16:39+08:00 ] 127.0.0.1 /index.php/Home/User/checkName?mingzi=ddd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001580s ]
+SQL: SHOW COLUMNS FROM `sw_user` [ RunTime:0.0142s ]
+SQL: SELECT * FROM `sw_user` WHERE `username` = 'ddd' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000934s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000978s ]
+
+[ 2017-07-04T01:16:48+08:00 ] 127.0.0.1 /index.php/Home/User/checkName?mingzi=dsdxz
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001134s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001695s ]
+SQL: SHOW COLUMNS FROM `sw_user` [ RunTime:0.0143s ]
+SQL: SELECT * FROM `sw_user` WHERE `username` = 'dsdxz' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000934s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000975s ]
+
+[ 2017-07-04T01:20:19+08:00 ] 127.0.0.1 /index.php/Home/User/checkName?mingzi=fdhhgfh
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000917s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001323s ]
+SQL: SHOW COLUMNS FROM `sw_user` [ RunTime:0.0183s ]
+SQL: SELECT * FROM `sw_user` WHERE `username` = 'fdhhgfh' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001325s ]
+
+[ 2017-07-04T01:25:08+08:00 ] 127.0.0.1 /index.php/Home/User/checkName?mingzi=cxxxxxxxxxxxxxx
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001093s ]
+SQL: SHOW COLUMNS FROM `sw_user` [ RunTime:0.0147s ]
+SQL: SELECT * FROM `sw_user` WHERE `username` = 'cxxxxxxxxxxxxxx' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001131s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001192s ]
+
+[ 2017-07-04T01:26:10+08:00 ] 127.0.0.1 /index.php/Home/User/checkName?mingzi=cxxxxxxxxxxxx
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001499s ]
+SQL: SHOW COLUMNS FROM `sw_user` [ RunTime:0.0915s ]
+SQL: SELECT * FROM `sw_user` WHERE `username` = 'cxxxxxxxxxxxx' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001407s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001489s ]
+
+[ 2017-07-04T01:26:25+08:00 ] 127.0.0.1 /index.php/Home/User/checkName?mingzi=cxxxxxxx
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001113s ]
+SQL: SHOW COLUMNS FROM `sw_user` [ RunTime:0.0125s ]
+SQL: SELECT * FROM `sw_user` WHERE `username` = 'cxxxxxxx' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001423s ]
+
+[ 2017-07-04T01:26:34+08:00 ] 127.0.0.1 /index.php/Home/User/checkName?mingzi=jjhjgh
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000724s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001063s ]
+SQL: SHOW COLUMNS FROM `sw_user` [ RunTime:0.0145s ]
+SQL: SELECT * FROM `sw_user` WHERE `username` = 'jjhjgh' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000859s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000895s ]
+
+[ 2017-07-04T01:26:55+08:00 ] 127.0.0.1 /index.php/Home/User/checkName?mingzi=jjhjgh
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001752s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003255s ]
+SQL: SHOW COLUMNS FROM `sw_user` [ RunTime:0.0161s ]
+SQL: SELECT * FROM `sw_user` WHERE `username` = 'jjhjgh' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001201s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001252s ]
+
+[ 2017-07-04T01:27:09+08:00 ] 127.0.0.1 /index.php/Home/User/checkName?mingzi=jjhjgh
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002104s ]
+SQL: SHOW COLUMNS FROM `sw_user` [ RunTime:0.0149s ]
+SQL: SELECT * FROM `sw_user` WHERE `username` = 'jjhjgh' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001391s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001476s ]
+
+[ 2017-07-04T01:29:42+08:00 ] 127.0.0.1 /index.php/Home/User/checkName?mingzi=vvvv
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001039s ]
+SQL: SHOW COLUMNS FROM `sw_user` [ RunTime:0.0179s ]
+SQL: SELECT * FROM `sw_user` WHERE `username` = 'vvvv' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000896s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000946s ]
+
+[ 2017-07-04T01:31:27+08:00 ] 127.0.0.1 /index.php/Home/User/checkName?mingzi=jjj
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000828s ]
+SQL: SHOW COLUMNS FROM `sw_user` [ RunTime:0.0636s ]
+SQL: SELECT * FROM `sw_user` WHERE `username` = 'jjj' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000788s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000835s ]
+
+[ 2017-07-04T01:36:09+08:00 ] 127.0.0.1 /index.php/Home/User/checkName?mingzi=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000867s ]
+SQL: SHOW COLUMNS FROM `sw_user` [ RunTime:0.0147s ]
+SQL: SELECT * FROM `sw_user` WHERE `username` = '' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000915s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000980s ]
+
+[ 2017-07-04T01:42:17+08:00 ] 127.0.0.1 /index.php/Home/User/checkName?mingzi=hgjfhj
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001169s ]
+SQL: SHOW COLUMNS FROM `sw_user` [ RunTime:0.0171s ]
+SQL: SELECT * FROM `sw_user` WHERE `username` = 'hgjfhj' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000910s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000980s ]
+
+[ 2017-07-04T01:42:51+08:00 ] 127.0.0.1 /index.php/Home/User/checkName?mingzi=fff
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000817s ]
+SQL: SHOW COLUMNS FROM `sw_user` [ RunTime:0.0531s ]
+SQL: SELECT * FROM `sw_user` WHERE `username` = 'fff' LIMIT 1   [ RunTime:0.0447s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000670s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000706s ]
+
+[ 2017-07-04T01:42:58+08:00 ] 127.0.0.1 /index.php/Home/User/checkName?mingzi=ddddddddd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000824s ]
+SQL: SHOW COLUMNS FROM `sw_user` [ RunTime:0.0775s ]
+SQL: SELECT * FROM `sw_user` WHERE `username` = 'ddddddddd' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000612s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000649s ]
+
+[ 2017-07-04T01:56:56+08:00 ] 127.0.0.1 /index.php/Home/User/checkName?mingzi=yuyuytuty
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001091s ]
+SQL: SHOW COLUMNS FROM `sw_user` [ RunTime:0.0143s ]
+SQL: SELECT * FROM `sw_user` WHERE `username` = 'yuyuytuty' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001113s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001163s ]
+

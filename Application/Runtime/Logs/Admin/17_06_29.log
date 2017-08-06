@@ -1,0 +1,18 @@
+[ 2017-06-29T08:28:22+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-2,3' at line 1
+
+[ 2017-06-29T08:29:18+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-2,3' at line 1
+
+[ 2017-06-29T08:34:28+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-2,3' at line 1
+
+[ 2017-06-29T08:37:47+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-2,3' at line 1
+
+[ 2017-06-29T08:38:19+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-2,3' at line 1
+
+[ 2017-06-29T08:38:22+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-2,3' at line 1
+
